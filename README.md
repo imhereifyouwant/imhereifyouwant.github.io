@@ -1,126 +1,116 @@
-# Space Jekyll
+[![Material Design for Bootstrap](https://mdbootstrap.com/wp-content/uploads/2018/01/corporate.jpg)](https://mdbootstrap.com/freebies/jquery/portfolio/)
 
-A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
+# Bootstrap 4 & Material Design - Portfolio Template 
 
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
+Free, responsive Portfolio template containing stunning, full-page Intro and different types of galleries. Built with the newest Bootstrap 4 and Material Design. MIT license – free for personal and commercial use.
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
+________
 
-# Site/User Settings
+# Live Previews: 
+## https://mdbootstrap.com/freebies/jquery/portfolio/
 
-customize your site in ``_config.yml``
+# Most important features:
 
-```ruby
+1. Fully responsive
 
-# Site settings
-description: A blog about lorem ipsum
-baseurl: "" # the subpath
-url: "" # the base hostname &/|| protocol for your site
+2. Plenty of useful components
 
-# User settings
-username: Lorem Ipsum
-user_description: Lorem Developer
-user_title: Lorem Ipsum
-email: lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+3. Easy installation
 
-```
+4. Easy to use and customize
 
-See more about project and links in [_config.yml](./_config.yml)
+5. Active community
 
-## How to create a post ?
+6. Dedicated support forum
 
-_posts create a file .md with structure:
+7. Detailed documentation
 
-```md
----
-layout: post
-title: "Lorem ipsum speak.."
-date: 2016-09-13 01:00:00
-image: '/assets/img/post-image.png'
-description: 'about tech'
-tags:
-- lorem
-- tech
-categories:
-- Lorem ipsum
-twitter_text: 'How to speak with Lorem'
----
-```
+# Demo:  
+**Main demo**: https://mdbootstrap.com/previews/free-templates/portfolio/full-page-gallery.html
 
-## How to insert new links on menu navigation ?
+# MDB Quick Start (5 minutes):
+**Written Tutorial**: https://mdbootstrap.com/education/bootstrap/quick-start/
 
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/src/img/menu.png)
+**Video Tutorial**:https://www.youtube.com/watch?v=cXTThxoywNQ&t=9s
 
-You should open `_config.yml` and change/add `links` section:
+**npm installation**
+You can install MDBootstrap using NPM:
+- `npm install mdbootstrap`
 
-```yaml
-links:
-  section_1: # you can use any name
-    - title: home # show on menu
-      url: / #link
-      key_trigger: 1 # link shortcut and show on the left of the title
-    - title: my posts
-      url: /posts
-      key_trigger: 2
-    - title: series
-      url: /series
-      key_trigger: 3
-    - title: tags
-      url: /tags
-      key_trigger: 4
-    - title: about me
-      url: /about
-      key_trigger: 5
-```
+# Additional tutorials:
 
-Frontend Technologies
----------------------
-* [Gulp](https://gulpjs.com/): The streaming build system.
-* [Stylus](http://stylus-lang.com/): expressive, dynamic, robust CSS.
-* [BrowserSync](https://www.browsersync.io/): Time-saving synchronised browser testing.
-* [Rupture](https://github.com/jescalan/rupture): Simple media queries for stylus.
-* [Kouto-Swiss](http://kouto-swiss.io/): A complete CSS framework for Stylus.
-* [Jeet](http://jeet.gs/): A grid system for human.
-* [Zepto.js](http://zeptojs.com/): The aerogel-weight jQuery-compatible JavaScript library.
+**MDB - Bootstrap tutorial**: https://mdbootstrap.com/education/bootstrap/
 
-## How can I modify the theme ?
+**MDB - Wordpress tutorial**: https://mdbootstrap.com/education/wordpress/
 
-First, install [jekyll](https://jekyllrb.com/) and [node.js](https://nodejs.org/).
+# Documentation:
 
-1. Fork the theme with your username, example: `charlie.github.io`
-2. Clone repository to your computer
-3. run `npm install`
-4. run `gulp`
-5. Be happy by modifying the files
+**Huge, detailed documentation avilable online on**: https://mdbootstrap.com/
 
-**Space Jekyll** uses the [Stylus](http://stylus-lang.com/) to process his css, then modifies the style of the theme in [this folder](https://github.com/victorvoid/space-jekyll-template/tree/master/src/styl).
+# PRO version:
 
-You can go in the [variable.styl](https://github.com/victorvoid/space-jekyll-template/blob/master/src/styl/_variables.styl) and modify the colors. 
+**MDB Portfolio Template Pro (jQuery version)**: https://mdbootstrap.com/products/jquery-portfolio/
+
+# Highlights:  
+**Bootstrap 4**  
+Thanks to MDB you can take advantage of all feature of newest Bootstrap 4.
+
+**Material Design for Bootstrap**  
+This template is built with MDBootstrap - powerful and free UI Kit, containing 400+ material UI elements, 600+ material icons, 74 CSS animations, SASS files, templates, tutorials and many more.  
+
+**Free for personal and commercial use**  
+Our license is user-friendly. Feel free to use MDB for both private as well as commercial projects.   
+
+**10 fresh ready to use templates**  
+We are going further and giving to you ready to use templates! Use them as you like, as an inspiration, prototype or final product for your customers.  
+
+**Fully responsive**  
+It doesn't matter whether your project will be displayed on desktop, laptop, tablet or mobile phone. MDB looks great on each screen.
+
+**Technical support**  
+We really care about reliability. If you have any questions - do not hesitate to contact us.  
+
+**Active community**  
+Our society grows day by day. Visit **our forum** and check how it is to be a part of our family.  
+
+**Flex box**  
+MDB fully suppports Flex Box. You can forget about alignment issues.  
+
+**Latest jQuery**  
+MDB is integrated with newest jQuery, therefore you can use all the newest features which comes along with it.  
+
+**Detailed documentation:**  
+We give you detailed documentation at your disposal. It will help you to implement your ideas easily.  
+
+A big **thank you to all our users** who are working with us to improve the software. We wouldn't be where we are without you.  
+
+# Useful Links:  
+
+Getting started: https://mdbootstrap.com/docs/jquery/getting-started/download/  
+
+5 min quick start: https://mdbootstrap.com/education/bootstrap/quick-start/  
+
+Material Design + Bootstrap Tutorial: https://mdbootstrap.com/education/bootstrap/  
+
+Material Design + WordPress Tutorial: https://mdbootstrap.com/education/wordpress/  
+
+Other Freebies: https://mdbootstrap.com/freebies/  
+
+Premium Templates: https://mdbootstrap.com/templates/  
 
 
-## License
-The MIT License (MIT)
+# Social Media:  
 
-Copyright (c) 2016 Victor Igor
+Twitter: https://twitter.com/MDBootstrap  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Facebook: https://www.facebook.com/mdbootstrap  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+Pinterest: https://pl.pinterest.com/mdbootstrap 
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Google+: https://plus.google.com/u/0/b/107863090883699620484/+Mdbootstrap/posts  
+
+Dribbble: https://dribbble.com/mdbootstrap
+
+LinkedIn: https://www.linkedin.com/company/material-design-for-bootstrap
+
+# Visit our website: https://mdbootstrap.com/
